@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "about-me"
-permalink: /about-me
+permalink: /test-site/about-me
 ---
 
 # Nagłówek pierwszego poziomu - gr 3/6
