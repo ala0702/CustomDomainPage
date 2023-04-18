@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Mój drugi post
+date:   2023-04-18 23:20:00 +0200
+categories: tutorial
+---
+
+To jest mój drugi post na tym blogu. 
+ - Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+ - Donec blandit purus vitae nibh tristique, quis fringilla orci volutpat. 
+ - Nulla et est nec magna gravida lacinia eu vel orci. Vivamus at interdum nulla. 
+ - Duis malesuada arcu nulla, id bibendum est bibendum id. Sed varius, mauris nec euismod dignissim, urna massa fermentum ante, ut ultrices odio elit vel ipsum.
+ - Integer id orci sed elit mollis auctor vel vel mauris. In hac habitasse platea dictumst. Suspendisse bibendum est vel ex consectetur, vel auctor mauris aliquam.
+ - Phasellus et justo sapien. Aenean hendrerit tellus ut felis hendrerit, et finibus ex venen
