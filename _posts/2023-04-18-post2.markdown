@@ -3,6 +3,7 @@ layout: post
 title:  Mój drugi post
 date:   2023-04-18 23:20:00 +0200
 categories: tutorial
+permalink: /test-site
 ---
 
 To jest mój drugi post na tym blogu. 
