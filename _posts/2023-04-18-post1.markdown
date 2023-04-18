@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Mój pierwszy post"
+date: 2023-04-19 12:00:00 +0200
+categories: tutorial jekyll
+---
+
+To jest mój pierwszy post w ramach tego tutoriala. 
+- Możesz edytować ten plik i przebudować swoją stronę, aby zobaczyć zmiany.
+
+
